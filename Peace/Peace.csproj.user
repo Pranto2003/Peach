@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="DepressionBible.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepressionBible1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepressionBible3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepressionBuddhism1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepressionBuddhism2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepressionBuddhism3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepressionHinduism.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepressionHinduism1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepressionHinduism2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepressionHinduism3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepressionIBible2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepressionIslam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepressionIslam1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepressionIslam2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DepressionIslam3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InconsistancyBible1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InconsistancyBible2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InconsistancyBible3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InconsistancyBuddhism1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InconsistancyBuddhism2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InconsistancyBuddhism3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InconsistancyHinduism1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InconsistancyHinduism2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InconsistancyHinduism3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InconsistancyIslam1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InconsistancyIslam2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InconsistancyIslam3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LonelinessBible1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LonelinessBible2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LonelinessBible3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LonelinessBuddhism1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LonelinessBuddhism2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LonelinessBuddhism3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LonelinessHinduism1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LonelinessHinduism2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LonelinessHinduism3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LonelinessIslam1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LonelinessIslam2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LonelinessIslam3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OverThinkingBible1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OverThinkingBible2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OverThinkingBible3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OverthinkingBuddhism.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OverThinkingBuddhism1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OverThinkingBuddhism2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OverThinkingBuddhism3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OverthinkingHinduism.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OverthinkingHinduism1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OverthinkingHinduism2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OverthinkingHinduism3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OverthinkingIslam1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OverthinkingIslam2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OverthinkingIslam3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Problems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VersevsVideos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
